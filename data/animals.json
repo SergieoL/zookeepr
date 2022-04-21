@@ -101,13 +101,11 @@
       ]
     },
     {
-      "name": "Sergieo",
+      "name": "Serg Dog",
       "species": "Dog",
       "diet": "carnivore",
       "personalityTraits": [
-        "hungry",
-        "silly",
-        "loving"
+        "hungry"
       ],
       "id": "10"
     }
